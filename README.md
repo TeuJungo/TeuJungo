@@ -31,7 +31,7 @@
   <a href="https://tailwindcss.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" />
   </a>
-  <a href="https://axios-http.com">
-    <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="50" />
+  <a href="https://axios-http.com" class="ml-2">
+    <img src="https://tailwindcss.com/favicons/apple-touch-icon.png" alt="Axios" width="50" />
   </a>
 </p>
