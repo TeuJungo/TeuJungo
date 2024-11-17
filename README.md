@@ -1,4 +1,4 @@
-## Hello my is Mateus Massaqui Jungo!
+## Hello my name is Mateus Massaqui Jungo! And above are mys stacks!
 
 <p align="left">
   <a href="https://nextjs.org" class="ml-3">
