@@ -7,6 +7,14 @@
     </button>
   </a>
 
+    <!-- React -->
+  <a href="https://reactjs.org" target="_blank" style="text-decoration: none;">
+    <button style="background: red; color: #fff; border: none; padding: 10px 15px; border-radius: 5px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 10px;">
+      <img src="https://nestjs.com/img/nest-og.png" alt="React Logo" style="width: 20px; height: 20px;" />
+      Expo GO
+    </button>
+  </a>
+
   <!-- Next.js -->
   <a href="https://nextjs.org" target="_blank" style="text-decoration: none;">
     <button style="background: #000; color: #fff; border: none; padding: 10px 15px; border-radius: 5px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 10px;">
