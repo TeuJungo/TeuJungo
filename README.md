@@ -58,7 +58,7 @@
   <!-- Laravel -->
   <a href="https://laravel.com" target="_blank" style="text-decoration: none;">
     <button style="background: #FF2D20; color: #fff; border: none; padding: 10px 15px; border-radius: 5px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel Logo" style="width: 20px; height: 20px;" />
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAA4CAMAAACBkfufAAAAaVBMVEX/////AAD/JBT/cmz/q6j/3tz/9/f/jIf/3d3/lZH/SUH/4+L/+vr/PjT/9PT/EwD/zMv/YVz/hID/paL/WlT/Myj/xsX/nZr/6un/r6z/wsD/HQn/UUn/t7X/bWj/LCD/fXn/1NP/Z2JoEPvtAAACbUlEQVRIid2W6ZKqMBCFc3BFwHZBBAFB3/8hpxOINCFc8e/tqqkxgS9kOac7Stk4tslD/Rx3oMRh/xv0CHB4qRBoj8uhfYWg1j/yJ3BfCB1bILSN1wHNoiXyop65aNcl0o13eNmoKHH3ISRMP5ifcYmHZhCUl+3ohSwpae1A8Q6oILqD8wp0HV6IUpQhHKwgpJE63ZCcLLZSpwS3rGtteXt2KhpjrwRN93wNnHOL2dGUunbdG4nlb+Azm+1FD2sxM/dd1uBmJiExftDKtfMiqLCY2SnSbQerqImc7XkQS8JiSrWwJyOwQ0CsOhl1Q2UosB22HiwpRnLQKqppASbFl6+0ZmMswYzUSy11dsiKF3JciBljVQX/GR0ux1jxRE3d/fwFY4VYyf/P2Ndziy9E1sQfjNX7b2xNeD+tp3tMe4WzwzzWu5f/GU93mHXmHKaN1LuTP3qOVMHYkAf82JXlN2Qm7enwiuw5ZB0fFnE5SEfu1ImpITGSB3sdyKakIVZBILPuBBulHBu8qJLk913MTTlmpDOwLrCfwWJVEyq3AMTdSOtZjKcyLTf2pGaxgGhS3DiB32xG9mMhyP1UNJz5LMa+x1tWOn3Kw0nNYia17T5FrNOU+o6xrFIr+ExUpa9Y93pmCoRT4xzsrZzgyVVysn1cR1jiiFYZT6f5pA+Qfb1bRxGhcGfwKaOfyFM4tXrjtPWZj7bH3z3GjJCnkJkEyUlIzLeIIUwtt08FZoU8G30tH2Hi6jEf+qRfAmOf08TnvuB7ydveS2Kfz2fi2N+CCu1z/0XPHyzmIKTL0mvlEI8GDS2+xIq4/3Rl/iH+APZsI/j9NVQnAAAAAElFTkSuQmCC" alt="Laravel Logo" style="width: 20px; height: 20px;" />
       Laravel
     </button>
   </a>
