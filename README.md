@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Mateus Massaqui!
 
-<!--
-**TeuJungo/TeuJungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a passionate **Full Stack Developer** with experience in:
+- 🌐 Frontend: **React**, **Next.js**
+- 🚀 Backend: **NestJS**, **PHP**, **Laravel**
+- 🐍 Python Enthusiast
+- ☕ Java Developer
 
-Here are some ideas to get you started:
+I love building scalable applications and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- **Advanced Python Frameworks** for web and mobile applications.
+- **Cloud Services** to enhance deployment strategies.
+
+### 👯 Collaboration
+- I'm open to collaborate on **open-source projects** and **innovative startups**.
+- Interested in **mentorship opportunities** and **team projects**.
+
+### 💬 Ask Me About
+- Full-stack development
+- Building PWAs with Next.js
+- API development and integrations
+- Python scripting for automation and data scraping
+
+### 📫 How to Reach Me
+- **Email**: [massaqui2021@gmail.com](mailto:massaqui2021@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub**: You’re already here! 😄
+
+### ⚡ Fun Fact
+- I enjoy exploring new technologies and sometimes dive into **UI/UX design** when I want to experiment with creativity.
+
+---
+
+Let me know if you want any changes or more customizations! 🚀
