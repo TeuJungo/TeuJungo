@@ -1,4 +1,4 @@
-## Minhas Tecnologias e Ferramentas diárias
+## Hello my is Mateus Massaqui Jungo!
 
 <p align="left">
   <a href="https://reactjs.org" class="ml-3">
@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
   </a>
   <a href="https://tailwindcss.com" class="ml-3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" />
+    <img src="https://tailwindcss.com/favicons/apple-touch-icon.png" alt="Tailwind CSS" width="50" />
   </a>
   <a href="https://axios-http.com" class="ml-3">
     <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="50" />
