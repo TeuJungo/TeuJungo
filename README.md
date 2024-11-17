@@ -34,7 +34,7 @@
   <!-- NestJS -->
   <a href="https://nestjs.com" target="_blank" style="text-decoration: none;">
     <button style="background: #E0234E; color: #fff; border: none; padding: 10px 15px; border-radius: 5px; font-size: 14px; cursor: pointer; display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS Logo" style="width: 20px; height: 20px;" />
+      <img src="https://nestjs.com/favicon.fe097249.ico" alt="NestJS Logo" style="width: 20px; height: 20px;" />
       NestJS
     </button>
   </a>
