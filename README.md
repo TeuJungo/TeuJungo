@@ -2,11 +2,11 @@
 
 ### About Me
 I'm a passionate **Full Stack Developer** with experience in:
-- 🌐 Frontend: **React**, **Next.js**
+- 🌐 Frontend: **React**, **Next.js**, **Electron**, **React Expo**
 - 🚀 Backend: **NestJS**, **PHP**, **Laravel**
 - 🐍 Python Enthusiast
 - ☕ Java Developer
-
+- 🧠 Artificial Inteligence
 I love building scalable applications and solving real-world problems through code.
 
 ### 🌱 Currently Learning
