@@ -1,9 +1,6 @@
 ## Hello my is Mateus Massaqui Jungo!
 
 <p align="left">
-  <a href="https://reactjs.org" class="ml-3">
-    <img src="https://nestjs.com/img/nest-og.png" alt="Expo GO" width="50" />
-  </a>
   <a href="https://nextjs.org" class="ml-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
   </a>
