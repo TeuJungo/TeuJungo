@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://nextjs.org" class="ml-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
-  </a>
+  </a> 
   <a href="https://www.electronjs.org" class="ml-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="50" />
   </a>
