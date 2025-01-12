@@ -31,4 +31,10 @@
   <a href="https://axios-http.com" class="ml-3">
     <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="50" />
   </a>
+   <a href="https://axios-http.com" class="ml-3">
+    <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="50" />
+   </a>
+   <a href="https://dart.dev" class="ml-3">
+    <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="Axios" width="50" />
+   </a>
 </p>
