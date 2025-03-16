@@ -31,6 +31,9 @@
   <a href="https://laravel.com" class="ml-3">
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" />
   </a>
+   <a href="docs.python.org" class="ml-3">
+    <img src="https://docs.python.org/3/_static/py.svg" alt="Python" width="50" />
+   </a>
   <a href="https://www.typescriptlang.org" class="ml-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
   </a>
@@ -46,4 +49,5 @@
    <a href="https://dart.dev" class="ml-3">
     <img src="https://www.elpassion.com/hs-fs/hubfs/BLOG%20IMAGES/1_QCajckOeBhRaLzi0RoFqig.png?width=1400&name=1_QCajckOeBhRaLzi0RoFqig.png" alt="Axios" width="50" />
    </a>
+ 
 </p> 
